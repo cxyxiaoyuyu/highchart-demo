@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<head>
+	<meta charset='utf-8'>
+	<title>System Health Status</title>
+	<style>	
+		h1 {
+			text-align: center;
+			margin-top: 50px;
+		}
+		table {
+			border-collapse:collapse;
+			margin: 0 auto;
+			margin-bottom: 100px;
+		}
+		th,td {
+			border: 1px solid black;
+			padding: 8px 46px;
+		}
+		.lamp {
+			width: 25px;
+			height: 25px;
+			border-radius: 50%;
+			margin: 0 auto;
+		}
+
+		.NG {
+			backgroun: red;
+		}
+		.OK {
+			background: #4dd646;
+		}
+	</style>
+</head>
+<body>
+	<div>
+		<h1>System Health Status</h1>
+		<table>
+			<tr>
+			    <th>System Name</th>
+			    <th>Health Status</th>
+			    <th>Last Test Time</th>
+			    <th>NG Time</th>
+		    </tr>
+		    {% for i in system_status %}
+		    <tr>
+			    <td>{{ i.0 }}</td>
+			    <td><div class='{{ i.1 }} lamp'></div></td>
+			    <td>{{ i.2 }}</td>
+			    <td>{{ i.3 }}</td>
+		    </tr>
+		    {% endfor %}
+		</table>
+	</div>
+</body

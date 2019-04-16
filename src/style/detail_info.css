@@ -1,0 +1,198 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #121758;
+}
+.title_bar {
+    width: 100%;
+    position: fixed;
+    z-index: 2;
+    top: 0px;
+    height: 40px;
+    background: #333;
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 40px;
+    text-align: center;
+}
+/* mamabear */  
+#title {
+    cursor: pointer;
+}
+.header {
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    box-shadow: 0px 0px 8px #e3e3e3;
+    border: 1px solid #e3e3e3;
+    background: #fff;
+    padding-top: 0px;
+    z-index: 3;
+}
+.header .logo {
+    height: 78px;  
+    width: 202px;
+    position: absolute;
+    top: 0px;
+    left: 60px;
+    background-image: url('https://www.highcharts.com/media/templates/highsoft_2015/images/logo.svg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    cursor: pointer;
+}
+.header .container {
+    background: #fff;
+    height: 75px;
+}
+/*  其他系統的title */
+.title {
+    line-height: 80px;
+    font-size: 32px;
+    text-align: center;
+    margin-left: 96px;
+}
+.time1 {
+    height: 50px;
+    margin: 25px 15px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.time2 {
+    height: 50px;
+    margin-top: 25px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: -58px;
+}
+.form_datetime {
+    width: 200px;
+    height: 35px;
+    border-radius: 3px;
+    border: 2px solid #30a9ef;
+    text-align: center;
+}
+.placeholder {
+    width: 100%;
+    height: 80px;
+}
+.container {
+    background: rgb(18,25,84);
+}
+#highchart {
+    padding-bottom: 80px;
+}
+.border {
+   height: 454px;
+   margin-top: 50px;
+   width: 90%;
+   margin-left: 5%;
+   margin-right: 5%;
+   border: 2px solid rgba(121,191,228,.5);
+   position: relative;
+}
+.border span {
+    position: absolute;
+    padding: 18px;
+    border-style: solid;
+    border-color: #79bfe4;
+    border-radius: 2px;
+}
+.row1 {
+    border-width: 2px 0 0 2px;
+    top: -3px;
+    left: -3px;
+}
+.row2 {
+    border-width: 2px 2px 0 0;
+    top: -3px;
+    right: -3px;
+}
+.col1 {
+    border-width: 0 0 2px 2px;
+    bottom: -3px;
+    left: -3px;
+}
+.col2 {
+    border-width: 0px 2px 2px 0;
+    bottom: -3px;
+    right: -3px;
+}
+.tab {
+    height: 450px;
+    width: 100%;
+}
+/*
+.tab:hover {
+    position: relative;
+    top: -3px;
+    box-shadow: 0px 15px 30px rgba(0,0,0,.2); 
+}
+*/
+.user {
+    position: relative;
+}
+#num_of_user input{
+    position: absolute;
+    top: 38px;
+    right: 100px;
+    width: 46px;
+    height: 30px;
+    border-radius: 2px;
+    border: 2px solid #abcdef;
+    text-align: center;
+}
+#num_of_user input:focus {
+    border: 1px solid #aaa;
+    outline: none;
+}
+.arrow {
+    background: rgb(18,25,84);
+    position: fixed; 
+    top: 80px;
+    left: 0px;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    line-height: 28px;
+    cursor: pointer;
+}
+.arrow:hover {
+    width: 0px;
+    height: 0px;
+}
+.arrow:hover .guide {
+    opacity: 1; 
+    transform: scale(1);
+}
+.guide {
+    background: rgba(53,50,101,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 262px;
+    padding:20px 40px;
+    text-align: center;
+    opacity: 0; 
+    transform: scale(0);
+    transform-origin: left top;
+    transition: all 0.5s ease-in;
+    cursor: pointer;
+}
+.guide li {
+    list-style:none;
+    padding:3px;
+    border-bottom:1px solid #fff;
+    font-size: 18px;
+    font-weight:normal;
+}
+.guide li:hover {
+    background: #fff;
+    color: rgb(120,182,231);
+    cursor: pointer;
+}

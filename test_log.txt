@@ -1,0 +1,192 @@
+2018-05-29 14:58:22,496 - Test - WARNING: 
+Test
+2018-05-29 14:58:22,496 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 14:58:22,496 - Test - WARNING: 
+ 
+2018-05-29 14:59:39,551 - Test - WARNING: 
+Test
+2018-05-29 14:59:39,551 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 14:59:39,551 - Test - WARNING: 
+ 
+2018-05-29 15:00:15,713 - Test - WARNING: 
+Test
+2018-05-29 15:00:15,713 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:00:15,713 - Test - WARNING: 
+ 
+2018-05-29 15:00:23,217 - Test - WARNING: 
+Test
+2018-05-29 15:00:23,217 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:00:23,217 - Test - WARNING: 
+ 
+2018-05-29 15:15:46,901 - Test - WARNING: 
+Test
+2018-05-29 15:15:46,901 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:15:46,901 - Test - WARNING: 
+ 
+2018-05-29 15:18:41,305 - Test - WARNING: 
+Test
+2018-05-29 15:18:41,305 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:18:41,305 - Test - WARNING: 
+ 
+2018-05-29 15:18:47,016 - Test - WARNING: 
+Test
+2018-05-29 15:18:47,016 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:18:47,016 - Test - WARNING: 
+ 
+2018-05-29 15:18:52,802 - Test - WARNING: 
+Test
+2018-05-29 15:18:52,802 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:18:52,802 - Test - WARNING: 
+ 
+2018-05-29 15:18:58,513 - Test - WARNING: 
+Test
+2018-05-29 15:18:58,513 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:18:58,513 - Test - WARNING: 
+ 
+2018-05-29 15:19:04,223 - Test - WARNING: 
+Test
+2018-05-29 15:19:04,223 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:19:04,223 - Test - WARNING: 
+ 
+2018-05-29 15:19:39,667 - Test - WARNING: 
+Test
+2018-05-29 15:19:39,667 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:19:39,667 - Test - WARNING: 
+ 
+2018-05-29 15:19:45,392 - Test - WARNING: 
+Test
+2018-05-29 15:19:45,392 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:19:45,392 - Test - WARNING: 
+ 
+2018-05-29 15:19:51,118 - Test - WARNING: 
+Test
+2018-05-29 15:19:51,118 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:19:51,118 - Test - WARNING: 
+ 
+2018-05-29 15:19:56,828 - Test - WARNING: 
+Test
+2018-05-29 15:19:56,828 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:19:56,844 - Test - WARNING: 
+ 
+2018-05-29 15:20:02,569 - Test - WARNING: 
+Test
+2018-05-29 15:20:02,569 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:20:02,569 - Test - WARNING: 
+ 
+2018-05-29 15:20:11,306 - Test - WARNING: 
+Test
+2018-05-29 15:20:11,306 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:20:11,306 - Test - WARNING: 
+ 
+2018-05-29 15:20:32,273 - Test - WARNING: 
+Test
+2018-05-29 15:20:32,273 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:20:32,273 - Test - WARNING: 
+ 
+2018-05-29 15:21:30,339 - Test - WARNING: 
+Test
+2018-05-29 15:21:30,339 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:21:30,339 - Test - WARNING: 
+ 
+2018-05-29 15:23:14,102 - Test - WARNING: 
+Test
+2018-05-29 15:23:14,102 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:23:14,102 - Test - WARNING: 
+ 
+2018-05-29 15:24:10,404 - Test - WARNING: 
+Test
+2018-05-29 15:24:10,404 - Test - WARNING: 
+{u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'user': u'dfjfg', u'team': u'DEF', u'build': u'start_EVT', u'first': u'testfirst'}
+2018-05-29 15:24:10,404 - Test - WARNING: 
+ 
+2018-05-29 15:24:19,516 - Test - WARNING: 
+Test
+2018-05-29 15:24:19,516 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 15:24:19,516 - Test - WARNING: 
+ 
+2018-05-29 17:49:31,362 - Test - WARNING: 
+Test
+2018-05-29 17:49:31,362 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-05-29 17:49:31,362 - Test - WARNING: 
+ 
+2018-11-29 15:01:02,888 - Test - WARNING: 
+Test
+2018-11-29 15:01:02,904 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-11-29 15:01:02,904 - Test - WARNING: 
+ 
+2018-11-29 15:45:40,214 - Test - WARNING: 
+Test
+2018-11-29 15:45:40,214 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-11-29 15:45:40,214 - Test - WARNING: 
+ 
+2018-11-29 15:49:51,710 - Test - WARNING: 
+Test
+2018-11-29 15:49:51,710 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-11-19 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-11-29 15:49:51,710 - Test - WARNING: 
+ 
+2018-11-29 15:50:32,724 - Test - WARNING: 
+Test
+2018-11-29 15:50:32,724 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-11-19 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-11-29 15:50:32,724 - Test - WARNING: 
+ 
+2018-11-29 15:50:51,371 - Test - WARNING: 
+Test
+2018-11-29 15:50:51,371 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-11-19 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-11-29 15:50:51,371 - Test - WARNING: 
+ 
+2018-11-29 15:50:57,568 - Test - WARNING: 
+Test
+2018-11-29 15:50:57,568 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-11-19 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-11-29 15:50:57,568 - Test - WARNING: 
+ 
+2018-11-29 15:51:30,242 - Test - WARNING: 
+Test
+2018-11-29 15:51:30,242 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-11-29 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-11-29 15:51:30,242 - Test - WARNING: 
+ 
+2018-11-29 15:52:29,147 - Test - WARNING: 
+Test
+2018-11-29 15:52:29,147 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-11-29 15:52:29,147 - Test - WARNING: 
+ 
+2018-11-29 15:53:07,660 - Test - WARNING: 
+Test
+2018-11-29 15:53:07,660 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-11-29 15:53:07,660 - Test - WARNING: 
+ 
+2018-11-29 15:54:13,260 - Test - WARNING: 
+Test
+2018-11-29 15:54:13,260 - Test - WARNING: 
+{u'location': u'RDA', u'time': u'2018-06-12 06:10:02', u'applet': u'Test', u'second': u'testsecond', u'build': u'start_EVT', u'team': u'DEF', u'first': u'testfirst', u'user': u'dfjfg'}
+2018-11-29 15:54:13,260 - Test - WARNING: 
+ 

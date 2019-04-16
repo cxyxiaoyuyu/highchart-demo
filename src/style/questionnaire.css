@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.topbar-container{
+	width: 100%;
+	height: 40px;
+	position: fixed;
+	color: white;
+	background-color: black
+}
+.main{
+	border: 1px;
+	padding-top:40px; 
+}
+.option{
+	padding: 10px 60px 0px 0px;
+=======
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.topbar-container{
+	width: 100%;
+	height: 40px;
+	position: fixed;
+	color: white;
+	background-color: black
+}
+.main{
+	border: 1px;
+	padding-top:40px; 
+}
+.option{
+	padding: 10px 60px 0px 0px;
+>>>>>>> be9438212d6078e819c8d9b45433ae7f245ae951
+}

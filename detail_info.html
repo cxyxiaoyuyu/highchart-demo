@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Highchart-demo</title>
+  <meta charset="utf-8">
+  
+  <link href="./src/image/title.ico" rel="SHORTCUT ICON" /> 
+  
+  <link href="./src/style/detail_info.css" rel="stylesheet" type="text/css">
+  <link href="./src/style/bootstrap-datetimepicker.css" rel="stylesheet" type="text/css">
+  <link href="./src/style/bootstrap.css" rel="stylesheet" type="text/css">
+  <script src="./src/javascript/jquery.min.js"></script>
+  <script src="./src/javascript/highcharts.js"></script>
+  <script src="./src/javascript/bootstrap-datetimepicker.min.js"></script>
+  <script src="./src/javascript/drilldown.js"></script>
+</head>
+<body>
+  <div class="header">
+    <a href="./index.html">
+      <div class="logo"></div>
+    </a>
+    <div class="container">
+      <div class="row">
+        <div class="title col-sm-3" style="font-size:27px">
+          SYSTEME NAME 
+        </div>
+        <div class='time1 col-sm-4'>
+          <form>
+            Start time: <input type="text" value='2019-04-05 00:00:00' class="form_datetime selected form-control" id="start">
+          </form>
+        </div>
+        <div class='time2 col-sm-4'>
+          <form>
+            End time: <input type="text" value='2019-04-16 12:00:00' class="form_datetime selected form-control" id="end">
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="placeholder"></div>
+  
+  <div class="container" id="highchart">
+    <div class="row">
+      <div class='border'>
+        <span class="row1"></span>
+        <span class="row2"></span>
+        <span class="col1"></span>
+        <span class="col2"></span>
+        <div id="function" class='tab'></div>
+      </div>
+    </div>
+    
+    <div class="row user">
+      <div class='border'>
+        <span class="row1"></span>
+        <span class="row2"></span>
+        <span class="col1"></span>
+        <span class="col2"></span>
+        <div class='tab' id="user"></div>
+        <div id="num_of_user">
+          <input type="number" value="20">
+        </div>
+      </div>
+    </div>
+    
+    <div class="row team">
+      <div class='border'>
+        <span class="row1"></span>
+        <span class="row2"></span>
+        <span class="col1"></span>
+        <span class="col2"></span>
+        <div id="team" class='tab'></div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="arrow">
+    <span>>></span>
+    <div class="guide">
+      <ul>
+        <li id='system1' class='sys'><a href="#">system1</a></li>
+        <li id='system2' class='sys'><a href="#">system2</a></li>
+        <li id='system3' class='sys'><a href="#">system3</a></li>
+        <li id='system4' class='sys'><a href="#">system4</a></li>
+      </ul>
+    </div>
+  </div>
+  <script src="./src/javascript/detail_info.js"></script>
+</body>
+</html>

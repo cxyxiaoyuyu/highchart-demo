@@ -1,0 +1,287 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background: #121758;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+/*.title_bar {
+    height: 40px;
+    width: 100%;
+    background: #333;
+    position: fixed;
+    z-index: 2;
+    top: 0px;
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 40px;
+    text-align: center;
+}*/
+.header {
+    width: 100%;
+    height: 80px;
+    margin: 0 auto;
+    position: fixed;
+    z-index: 2;
+    top: 0px;
+    box-shadow: 0px 0px 8px #e3e3e3;
+    font-weight: bold;
+    border: 1px solid #e3e3e3;
+    background: #fff;
+    
+}
+.header .logo {
+    position: absolute; 
+    top: 0;
+    left: 60px;
+    
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+    background-image: url('https://www.highcharts.com/media/templates/highsoft_2015/images/logo.svg');
+    height: 78px;
+    width: 200px;
+}
+.header .container {
+    background: #fff;
+}
+.placeholder {
+    width: 100%;
+    height: 80px;
+    background: #fff;
+}
+.head-1,.head-2,.head-3,.head-4{
+    float: left;
+}
+.head-1 {
+    width: 26%;
+    margin-left: 100px;
+}
+.head-2 {
+    width: 26%;
+    margin-left: 0px;
+}
+.head-3 {
+    width: 15%;
+    margin-left: 10px;
+    height: 80px;
+}
+.head-4 {
+    width: 15%;
+    margin-left: 22px;
+    height: 80px;
+}
+
+.time1{
+    height: 50px; 
+    margin-left: 10px;
+    margin-top: 23px;
+    text-align: center;
+}
+.time2 {
+    height: 50px;
+    margin-top: 23px;
+    text-align: center;
+}
+.time3, .time4 {
+    margin-top: 28px;
+}
+.form_datetime {
+    width: 210px;
+    height: 35px;
+    border-radius: 3px;
+    border: 2px solid #30a9ef;
+    text-align: center;
+}
+.axis {
+    width: 120px;
+    height: 30px; 
+    text-align: center;
+    border: 2px solid #30a9ef;
+    background: #fff;
+}
+
+/* 下拉框 */
+.wrapper-dropdown {
+    position: relative;
+    top: -25px;
+    left: 25px;
+    width: 140px;
+    margin: 0 auto;
+    padding: 5px 15px;
+    
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 1px 0 rgb(0,0,0,.2);
+    border: 2px solid #30a9ef;
+    cursor: pointer;
+    outline: none;
+    transition: all 0.3s ease-out;
+}
+.wrapper-dropdown:after {
+    content: '';
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 15px;
+    right: 18px;
+    margin-top: -3px;
+    border-width: 6px 6px 0 6px;
+    border-style: solid;
+    border-color: #4cbeff transparent;
+}
+.wrapper-dropdown .dropdown {
+    position: absolute;
+    top: 105%;
+    left: -2px;
+    right: -2px;
+    
+    background: #fff;
+    border-radius: 0 0 5px 5px;
+    border: 1px solid rgba(0,0,0,.2);
+    border-top: none;
+    border-bottom: 1px solid rgba(0,0,0,.2);
+    list-style: none;
+    transition: all 0.01s ease-out;
+    
+    max-height: 0;
+    overflow: hidden;
+}
+.wrapper-dropdown .dropdown li {
+    padding: 0 10px;
+}
+.wrapper-dropdown .dropdown li a {
+    display: block;
+    text-decoration: none;
+    color: #333;
+    padding: 10px 0;
+    transition: all 0.3s ease-out;
+    border-bottom: 1px solid #e6e8ea;
+}
+.wrapper-dropdown .dropdown li:last-of-type a{
+    border: none;
+}
+.wrapper-dropdown .dropdown li i {
+    margin-right: 5px;
+    color: inherit;
+    vertical-align: middle;
+}
+.wrapper-dropdown .dropdown li:hover a{
+    color: #57a9d9;
+}
+.wrapper-dropdown.active {
+    border-radius: 5px 5px 0 0;
+    background: #4cbeff;
+    box-shadow: none;
+    color: white;
+}
+.wrapper-dropdown.active .dropdown {
+    max-height: 400px;
+}
+
+.header .container {
+    height: 78px;
+}
+
+/*
+.select {
+    background: #fff;
+}
+option {
+    background: #fff;
+}
+*/
+
+/* 圖表 */
+.container {
+    background: rgb(18,25,84); 
+    /*overflow: auto;*/
+}
+#highchart {
+    padding-bottom: 80px;
+}
+.bordera {
+    float: left;
+    height: 404px;
+    margin-top: 40px;
+    width: 91%;
+    margin-left: 7%;
+    margin-right: 2%;
+    position: relative;
+    border: 2px solid rgba(121,191,228,.5);
+    box-shadow: 0px 0px 3px rgb(35,50,104) inset, 0px 0px 14px rgb(142,163,202);
+}
+.borderb {
+    height: 404px;
+    margin-top: 40px;
+    width: 91%;
+    margin-left: 2%;
+    margin-right: 7%;
+    position: relative;
+    border: 2px solid rgba(121,191,228,.5);
+    box-shadow: 0px 0px 3px rgb(35,50,104) inset, 0px 0px 14px rgb(142,163,202);
+}
+.bordera:hover,.borderb:hover {
+    position: relative;
+    top: -3px;
+    transition: 1s;
+    box-shadow: 0px 0px 30px rgb(142,163,202);
+}
+.bordera span,.borderb span {
+    position: absolute;
+    padding: 15px;
+    border-style: solid;
+    border-color: #79bfe4;
+    border-radius: 2px;
+}
+.row1 {
+    border-width: 2px 0 0 2px;
+    top: -3px;
+    left: -3px;
+}
+.row2 {
+    border-width: 2px 2px 0 0 ;
+    top: -3px;
+    right: -3px;
+}
+.row3 {
+    border-width: 0px 0px 2px 2px;
+    bottom: -3px;
+    left: -3px;
+}
+.row4 {
+    border-width: 0px 2px 2px 0;
+    bottom: -3px;
+    right: -3px;
+}
+.systema {
+    height: 400px;
+    width: 100%;
+}
+.systemb {
+    height: 400px;
+    width: 100%;
+}
+
+/*
+.systema:hover {
+    position: relative;
+    top: -3px; 
+    transition: 0.8s;
+    box-shadow: 0px 15px 30px rgba(0,0,0,0.5);
+    text-decoration: none; 
+}
+.systemb:hover {
+    position: relative;
+    top: -3px; 
+    transition: 0.8s;
+    box-shadow: 0px 15px 30px rgba(0,0,0,0.2);
+}
+*/

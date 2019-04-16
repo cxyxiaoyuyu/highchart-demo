@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.header {
+    width: 1200px;
+    height: 100px;
+}
+.time:first-child {
+    margin-left: 55px;
+}
+.time:nth-child(3), .time:nth-child(4) {
+    margin-left: 0px;
+    margin-top: 33px;
+    width: 250px;
+}
+.time{
+    width: 300px;
+    height: 50px; 
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+.form_datetime {
+    width: 210px;
+    height: 35px;
+    border-radius: 3px;
+    border: 2px solid #abcdef;
+    text-align: center
+}
+.axis {
+    width: 150px;
+    height: 30px; 
+    text-align: center;
+    border: 1px solid #abcdef;
+}
+.select {
+    width: 250px; 
+}
+.system{
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 580px; 
+    height: 500px;
+    float: left;
+}
+

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Highchart-demo</title>
+  <meta charset="utf-8">
+  
+  <link href="./src/image/title.ico" rel="SHORTCUT ICON" />
+  
+  <link href="./src/style/index.css" rel="stylesheet" type="text/css">
+  <link href="./src/style/bootstrap.css" rel="stylesheet" type="text/css">
+  <link href="./src/javascript/bootstrap.min.js" rel="stylesheet" type="text/css">
+  <link href="./src/style/bootstrap-datetimepicker.css" rel="stylesheet" type="text/css">
+  <link href="./src/style/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <script src="./src/javascript/jquery.min.js"></script>
+  <script src="./src/javascript/highcharts.js"></script>
+  <script src="./src/javascript/bootstrap-datetimepicker.min.js"></script>
+  <script src="./src/javascript/index.js"></script>
+</head>
+<body>
+  <!--<div class="title_bar">
+    <div class="col-sm-2">
+      MamaBear
+    </div>
+  </div>-->
+  <div class='header'>
+    <a><div class="logo"></div></a>
+    <div class="container">
+      <div class="row">
+        <div class="head-1">
+          <div class="time1">
+            <form action='/detail' method='get'>
+              Start time: <input type="text" size="25" name='start_time' class="form_datetime selected form-control" id="start">
+            </form>
+          </div>
+        </div>
+        <div class="head-2">
+          <div class="time2">
+            <form method="get">
+              End time: <input type="text" size="25" name='start_time' class="form_datetime selected form-control" id="end">
+            </form>
+          </div>
+        </div>
+        <div class="head-3">
+          <div class="time3">
+            <span>xAxis:</span>  
+            <div class="wrapper-dropdown" id="x_dropdown" >
+              <span class="aaxis" id="xaxis">Day</span>
+              <ul class="dropdown">
+                <li>
+                  <a href="#">
+                    <i class="fa fa-hourglass fa-1x"></i>
+                    <span>Hour</span>
+                  </a>
+                  <li>
+                    <a href="#">
+                      <i class="fa fa-wikipedia-w fa-1x"></i>
+                      <span>Week</span>
+                    </a>
+                  </li>
+                </li>
+                <li>
+                  <a href="#">
+                    <i class="fa fa-calendar fa-1x"></i>
+                    <span>Month</span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="head-4">
+          <div class="time4">
+            <span>yAxis:</span>  
+            <div class="wrapper-dropdown" id="y_dropdown">
+              <span class="aaxis" id="yaxis">User</span>
+              <ul class="dropdown">
+                <li>
+                  <a href="#">
+                    <i class="fa fa-mouse-pointer fa-1x"></i>
+                    <span>Click</span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="placeholder">
+    
+  </div> 
+  <div class="container" id="highchart"> 
+    <div class="row"> 
+      <div class="col-sm-6"> 
+        <a href="detail_info.html">
+          <div class='bordera'>
+            <span class="row1"></span> 
+            <span class="row2"></span>
+            <span class="row3"></span>
+            <span class="row4"></span>
+            <div id="system1" class="systema system"></div>
+          </div>
+          
+        </a>
+      </div>
+      <div class="col-sm-6">
+        <a href="detail_info.html">
+          <div class='borderb'>
+            <span class="row1"></span>
+            <span class="row2"></span>
+            <span class="row3"></span>
+            <span class="row4"></span>
+            <div id="system2" class="systemb system"></div>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="row"> 
+      <div class="col-sm-6"> 
+        <a href="detail_info.html">
+          <div class='bordera'>
+            <span class="row1"></span> 
+            <span class="row2"></span>
+            <span class="row3"></span>
+            <span class="row4"></span>
+            <div id="system3" class="systema system"></div>
+          </div>
+          
+        </a>
+      </div>
+      <div class="col-sm-6">
+        <a href="detail_info.html">
+          <div class='borderb'>
+            <span class="row1"></span>
+            <span class="row2"></span>
+            <span class="row3"></span>
+            <span class="row4"></span>
+            <div id="system4" class="systemb system"></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div> 
+</body>
+</html>
