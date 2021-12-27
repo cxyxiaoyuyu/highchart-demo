@@ -285,3 +285,10 @@ option {
     box-shadow: 0px 15px 30px rgba(0,0,0,0.2);
 }
 */
+.tip {
+  position: absolute;
+  color: #fff;
+  font-size: 14px;
+  top: 100px;
+  left: 10px;
+}
